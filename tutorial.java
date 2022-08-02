@@ -84,9 +84,79 @@ public class tutorial {
 //                 break;
 //                 default:
 //                 System.out.println("default age ");
-        }
-
-
-
+        // }
+//  quiz to print monday to saturday by takinng the input from the user 1-7
+        // Scanner scan=new Scanner(System.in);
+        // System.out.println("enter your option : ");
+        // int input =scan.nextInt();
+        // switch(input){
+        //         case 1:
+        //         System.out.println("monday");
+        //         break;
+        //         case 2:
+        //         System.out.println("tuesday");
+        //         break;
+        //         case 3:
+        //         System.out.println("wednesday");
+        //         break;
+        //         case 4:
+        //         System.out.println("thursday");
+        //         break;
+        //         case 5:
+        //         System.out.println("friday");
+        //         break;
+        //         case 6:
+        //         System.out.println("staurday");
+        //         break;
+        //         case 7:
+        //         System.out.println("sunday");
+        //         break;
+        //         default:
+        //         System.out.println("enter the correct day");
+        // }
+// 12 - LOOPS
+//   -while loops
+        // int i =1;
+        // while(i<10){
+        //         System.out.println(i);
+        //         i+=1;
+        // }
+//      - DO _WHILE LOOPS
+        // int i =1;
+        // do {
+        //         System.out.println((Math.random()));
+        //         i+=1;
+        // }
+        // while(i<10);
+//   - For loop
+        // for(int i=0;i<=10;i++){
+        //         if (i==5){
+        //                 continue;
+        //         }
+        //         System.out.println(i);
+        // }
+// 13- arrays
+        // int [] marks ={0,1,2,3,4};
+        // // // System.out.println(marks[0]);
+        // // for (int i=0;i<marks.length;i++){
+        // //         System.out.print(i);
+        // // }
+        // // for each loop  
+        // for (int i: marks){
+        //         System.out.println(i);
+        // }
+        // String [] collection ={"shiv","parvati","vishnu","laxmi","brahma" };
+        // for (String i:collection){
+        //         System.out.println(i);
+        // }
+// 14 try catch-
+        // String [] collection ={"shiv","parvati","vishnu","laxmi","brahma" };
+        // for (String i:collection){
+        //         try{
+        //                 System.out.println(collection[5]);
+        //         }
+        //         catch(Exception e){
+        //                 System.out.println(e);                }
+        // }
     }
 }
